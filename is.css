@@ -1,7 +1,22 @@
 {
-    margin:0;
+    /*margin:0;
     padding:0;
+     */
     box-sizing: border-box;
-    border:10px solid mediumpurple;
 
+    box-sizing: border-box;
+    list-style:none;
+}
+img{
+    height:400px;
+    width:500px;
+
+}
+
+
+.img-start {
+    border: 10px solid mediumpurple;
+}
+#img-master{
+    border: 10px solid mediumpurple;
 }
